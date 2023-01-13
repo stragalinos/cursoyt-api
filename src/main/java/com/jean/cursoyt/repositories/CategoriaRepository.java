@@ -11,6 +11,6 @@ import com.jean.cursoyt.domain.Livro;
 @Repository
 public interface CategoriaRepository extends JpaRepository<Categoria, Integer> {
 
-
+ 
 	
 }
